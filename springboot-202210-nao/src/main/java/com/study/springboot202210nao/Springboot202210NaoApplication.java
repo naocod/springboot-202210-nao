@@ -9,5 +9,4 @@ public class Springboot202210NaoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Springboot202210NaoApplication.class, args);
 	}
-
 }

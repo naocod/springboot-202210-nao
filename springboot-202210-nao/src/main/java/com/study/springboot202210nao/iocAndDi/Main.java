@@ -19,7 +19,7 @@ public class Main {
         // 의존성을 주입했다 -> Di
         UserService userService = UserServiceImpl.getInstance();
 
-        Main main = new Main(userService); // Main을 생성할 때 null 넣어도 됨. userServiceImpl 안넣어도됨
+        Main main = new Main(userService); // Main을 생성할 때 null 넣어도 됨. userServiceImpl 안넣어도 됨
         main.run();
     }
 }
