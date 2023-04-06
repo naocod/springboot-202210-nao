@@ -45,3 +45,6 @@ restful한 서버는 실질적으로 없고 최대한 특징을 지켜서 만듬
         https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
 
         id는 직접 생성하지 않고 db에서 생성해주는 프로시저나 auto increment를 사용하여 생성되기 때문
+
+
+@ 데이터베이스
